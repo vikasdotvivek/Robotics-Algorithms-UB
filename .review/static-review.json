@@ -1,0 +1,363 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/Robotics-Algorithms-UB",
+  "revision": "f6594a1702a7faf753a3388093e51667314eaa4f",
+  "tracked_files": 70,
+  "scanned": [
+    {
+      "path": "Project 1/CMakeLists.txt",
+      "lines": 199,
+      "bytes": 6745
+    },
+    {
+      "path": "Project 1/scripts/evader_bot.py",
+      "lines": 107,
+      "bytes": 2552
+    },
+    {
+      "path": "Project 1/scripts/evader_pursuer_bot.py",
+      "lines": 107,
+      "bytes": 2584
+    },
+    {
+      "path": "Project 1/scripts/pursuer_bot.py",
+      "lines": 65,
+      "bytes": 2121
+    },
+    {
+      "path": "Project 2/CMakeLists.txt",
+      "lines": 200,
+      "bytes": 6807
+    },
+    {
+      "path": "Project 2/scripts/percept.py",
+      "lines": 141,
+      "bytes": 3604
+    },
+    {
+      "path": "Project 4/CMakeLists.txt",
+      "lines": 202,
+      "bytes": 6843
+    },
+    {
+      "path": "Project 4/scripts/main.py",
+      "lines": 153,
+      "bytes": 5255
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/Project Problem Statement.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/launch/evader.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/launch/lab1.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/launch/pursuer-evader.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/scripts/.pursuer_bot.py.swp",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/world/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/world/playground.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/world/playground.world",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 1/world/playground2.world",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/Project Problem Statement.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/launch/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/launch/perception.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/scripts/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/world/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/world/playground.pgm",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 2/world/playground.world",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/Project Problem Statement.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/Project Report.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image1-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image1-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image1-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image2-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image2-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image2-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image3-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image3-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image3-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image4-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image4-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image4-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image5-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image5-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image5-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image6-color.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image6-ncc.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/output_images/image6-ssd.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image1.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image2.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image3.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image4.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image5.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/resources/image6.jpg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/scripts/im_align1.m",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/scripts/im_align2.m",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 3/scripts/main.m",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/Project Problem Statement.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/bag/grid.bag",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/launch/lab4.launch",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/msg/Motion.msg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/msg/Observation.msg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/output/trajectory.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 4/package.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Project 5/Project Problem Statement.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [
+    "Project 1/CMakeLists.txt",
+    "Project 1/package.xml",
+    "Project 2/CMakeLists.txt",
+    "Project 2/package.xml",
+    "Project 4/CMakeLists.txt",
+    "Project 4/package.xml"
+  ],
+  "conventional_test_paths": [],
+  "findings": [
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "Project 1/scripts/evader_bot.py",
+      "line": 36,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/Robotics-Algorithms-UB/blob/f6594a1702a7faf753a3388093e51667314eaa4f/Project%201/scripts/evader_bot.py#L36"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "Project 1/scripts/evader_pursuer_bot.py",
+      "line": 36,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/Robotics-Algorithms-UB/blob/f6594a1702a7faf753a3388093e51667314eaa4f/Project%201/scripts/evader_pursuer_bot.py#L36"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "Project 1/scripts/pursuer_bot.py",
+      "line": 48,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/Robotics-Algorithms-UB/blob/f6594a1702a7faf753a3388093e51667314eaa4f/Project%201/scripts/pursuer_bot.py#L48"
+    },
+    {
+      "rule": "silent-except",
+      "priority": "P2",
+      "path": "Project 2/scripts/percept.py",
+      "line": 140,
+      "title": "Exception handler only passes",
+      "recommendation": "Decide whether the error is recoverable; surface nonrecoverable failures instead of silently continuing.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/Robotics-Algorithms-UB/blob/f6594a1702a7faf753a3388093e51667314eaa4f/Project%202/scripts/percept.py#L140"
+    },
+    {
+      "rule": "silent-except",
+      "priority": "P2",
+      "path": "Project 4/scripts/main.py",
+      "line": 152,
+      "title": "Exception handler only passes",
+      "recommendation": "Decide whether the error is recoverable; surface nonrecoverable failures instead of silently continuing.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/Robotics-Algorithms-UB/blob/f6594a1702a7faf753a3388093e51667314eaa4f/Project%204/scripts/main.py#L152"
+    }
+  ],
+  "total_findings": 5,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
